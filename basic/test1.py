@@ -20,8 +20,8 @@ while running:
 pygame.quit()
 
 # now add one more print
-print(1+1)
+
  
-print("hi")
+
 
 
